@@ -14,7 +14,9 @@
 
 // CODE HERE...
 
-
+function callBinding (magicAnimals, updateAnimal, id) {
+ 
+}
 
 // *************
 // * PROBLEM 2 *
